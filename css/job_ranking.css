@@ -1,0 +1,47 @@
+.ranking-container{
+    border: solid  #FFDBC9; 
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #FFDBC9;
+}
+
+.ranking-third{
+    border: solid  #88FFFF; 
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #88FFFF;    
+}
+
+.ranking-second_place{
+    border: solid  #FFDDFF; 
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #FFDDFF;      
+}
+
+.ranking-1st_place{
+    border: solid  #FFFFDD; 
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #FFFFDD;      
+}
+
+body {
+    background-image: url('../images/じょぶらんきんぐ.webp'); /* ここを使いたい画像の名前に変えてください */
+    background-size: cover; /* 画像を画面全体に広げます */
+    background-position: center; /* 画像を真ん中に配置します */
+    background-repeat: no-repeat; /* 画像を繰り返さないようにします */
+}
+
+
+
+
+    

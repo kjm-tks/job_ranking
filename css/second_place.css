@@ -1,0 +1,28 @@
+body {
+    background-image: url('../images/じょぶらんきんぐ.webp');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.boxed {
+    border: 2px solid #ebf0c3; /* 枠線の色を設定 */
+    padding: 10px; /* 内側の余白を設定 */
+    margin: 10px 0; /* 上下の余白を設定 */
+    background-color: #ebf0c3; /* 背景色を設定 */
+    border-radius: 5px; /* 角を丸くする */
+}
+
+.highlight {
+    color: rgb(254, 123, 114); /* フォントの色を赤に設定します */
+}
+
+.iei{
+    margin: 2em 0 1em 0;
+    border-left: 4px solid #ff8484;
+    border-bottom: 1px solid #ff8484;
+    padding: 7px;
+    font-weight: bold;
+    }
+
+    

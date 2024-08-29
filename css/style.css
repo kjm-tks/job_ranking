@@ -2,7 +2,7 @@
 
 body{
     background-color: #DDFFFF;
-    background-image: url(../images/iyakondokoso.jpeg);
+    background-image: url('../images/iyakondokoso.jpeg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;

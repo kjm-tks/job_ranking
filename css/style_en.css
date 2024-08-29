@@ -3,7 +3,7 @@
 /* General body styles */
 body {
     background-color: #DDFFFF; /* Light blue background color */
-    background-image: url(../images/いや今度こそ背景.webp); /* Background image はいけいをかえるのをわすれないでください*/
+    background-image: url(../images/いや今度こそ背景.jpeg); /* Background image はいけいをかえるのをわすれないでください*/
     background-repeat: no-repeat; /* Do not repeat the image */
     background-position: center top; /* Center the image horizontally and align to the top */
     background-size: cover; /* Cover the entire viewport */

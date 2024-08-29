@@ -35,7 +35,7 @@
 }
 
 body {
-    background-image: url('../images/じょぶらんきんぐ.webp'); /* Replace this with the name of the image you want to use */
+    background-image: url('../images/じょぶらんきんぐ.jpeg'); /* Replace this with the name of the image you want to use */
     background-size: cover; /* Expands the image to cover the entire screen */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */

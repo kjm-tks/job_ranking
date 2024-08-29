@@ -35,7 +35,7 @@
 }
 
 body {
-    background-image: url('../images/じょぶらんきんぐ.jpeg'); /* ここを使いたい画像の名前に変えてください */
+    background-image: url('../images/job ranking.jpeg'); /* ここを使いたい画像の名前に変えてください */
     background-size: cover; /* 画像を画面全体に広げます */
     background-position: center; /* 画像を真ん中に配置します */
     background-repeat: no-repeat; /* 画像を繰り返さないようにします */
